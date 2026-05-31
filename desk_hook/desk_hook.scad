@@ -17,7 +17,7 @@ desk_thickness = 27.15; // [5:1:50]
 clamp_depth = 40; // [20:1:80]
 
 // The thickness of the hook structure (in mm). Controls overall strength.
-material_thickness = 6; // [4:0.5:15]
+material_thickness = 10; // [4:0.5:15]
 
 // Width of the hook (in mm). The extrusion depth.
 hook_width = 20; // [10:1:100]
