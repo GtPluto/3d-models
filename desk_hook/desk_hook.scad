@@ -11,10 +11,10 @@
 
 /* [Desk Clamp Parameters] */
 // Thickness of your desk/table (in mm).
-desk_thickness = 10; // [5:1:50]
+desk_thickness = 27.15; // [5:1:50]
 
 // How deep the clamp slides onto the desk surface (in mm).
-clamp_depth = 35; // [20:1:80]
+clamp_depth = 40; // [20:1:80]
 
 // The thickness of the hook structure (in mm). Controls overall strength.
 material_thickness = 6; // [4:0.5:15]
